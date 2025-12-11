@@ -1,42 +1,100 @@
+from fastapi import APIRouter
+from pydantic import BaseModel
+from typing import List
 import pandas as pd
 from catboost import CatBoostRegressor
+import os
 
-# 1. 모델 파일 경로 설정
-MODEL_PATH = 'catboost_model.bin'
+router = APIRouter(prefix="/hospital", tags=["Hospital Prediction"])
 
-# 2. CatBoost 모델 로드
-# CatBoostRegressor 클래스를 사용하여 모델을 로드합니다.
-try:
-    model = CatBoostRegressor()
-    model.load_model(MODEL_PATH)
-    print(f"✅ CatBoost 모델을 '{MODEL_PATH}'에서 성공적으로 로드했습니다.")
-except Exception as e:
-    print(f"❌ 모델 로드 중 오류 발생: {e}")
-    print("모델 파일이 현재 디렉토리에 있는지, 파일 이름이 'catboost_model.bin'이 맞는지 확인해 주세요.")
-    exit()
+# --- 모델 로드 로직 (기존과 동일) ---
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MODEL_PATH = os.path.join(BASE_DIR, 'model', 'catboost_model.bin')
 
-# 3. 예측에 사용할 새로운 데이터 준비
-# 학습 시 사용했던 특성 순서와 개수를 맞춰야 합니다: ['distance_m', 'rating', 'congestion_level']
-# 예시 데이터:
-# - 첫 번째 병원: 거리 500m, 평점 4.5, 혼잡도 2 (낮음)
-# - 두 번째 병원: 거리 3000m, 평점 3.8, 혼잡도 5 (높음)
-# - 세 번째 병원: 거리 800m, 평점 4.9, 혼잡도 3 (보통)
-new_data = pd.DataFrame({
-    'distance_m': [500, 3000, 800],
-    'rating': [4.5, 3.8, 4.9],
-    'congestion_level': [3, 1, 1]
-})
+model = CatBoostRegressor()
+if os.path.exists(MODEL_PATH):
+    try:
+        model.load_model(MODEL_PATH)
+        print(f"✅ [Router] 모델 로드 완료: {MODEL_PATH}")
+    except Exception as e:
+        print(f"❌ [Router] 모델 로드 실패: {e}")
+else:
+    print(f"⚠️ [Router] 경고: 모델 파일 없음")
 
-# 4. 예측 수행
-# model.predict() 함수를 사용하여 예측합니다.
-predictions = model.predict(new_data)
 
-# 5. 결과 출력
-new_data['predicted_recommendation_score'] = predictions
+# 1. 입력 데이터 모델 정의 (단일 병원 객체)
+class HospitalInput(BaseModel):
+    id: int               # 병원 ID (필수)
+    distance_m: float
+    rating: float
+    congestion_level: int
 
-print("\n--- 예측 결과 ---")
-print(new_data)
-print("\n가장 높은 예측 점수(추천 점수)를 가진 병원:")
-# 가장 높은 예측 점수를 가진 행을 찾아서 출력
-most_recommended = new_data.loc[new_data['predicted_recommendation_score'].idxmax()]
-print(most_recommended)
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "id": 101,
+                "distance_m": 500,
+                "rating": 4.5,
+                "congestion_level": 2
+            }
+        }
+
+# 2. 예측 엔드포인트 정의
+# List[HospitalInput]을 사용하여 여러 병원 데이터를 리스트로 받습니다.
+@router.post("/predict")
+async def predict_score(hospital_list: List[HospitalInput]):
+    # 모델 로드 상태 확인
+    if model.tree_count_ is None:
+        return {
+            "success": False,
+            "data": None,
+            "msg": "AI Server Error: Model is not loaded."
+        }
+
+    try:
+        # 입력 데이터가 비어있는지 확인
+        if not hospital_list:
+            return {
+                "success": True,
+                "data": [],
+                "msg": "No hospital data provided."
+            }
+
+        # 1. 리스트를 DataFrame으로 변환 (한 번에 예측하기 위함)
+        # Pydantic 모델 리스트를 dict 리스트로 변환
+        input_data_list = [h.dict() for h in hospital_list]
+        df = pd.DataFrame(input_data_list)
+
+        # 2. 예측에 필요한 특성(Feature)만 선택
+        # 학습할 때 사용한 특성 순서를 맞춰줍니다.
+        X_features = df[['distance_m', 'rating', 'congestion_level']]
+
+        # 3. 일괄 예측 수행 (Batch Prediction)
+        predictions = model.predict(X_features)
+
+        # 4. 결과 매핑 및 구조화
+        hospital_rank_data = []
+        
+        # DataFrame의 각 행과 예측 결과를 합칩니다.
+        for idx, row in df.iterrows():
+            hospital_rank_data.append({
+                "id": int(row['id']),
+                "predicted_recommendation_score": float(predictions[idx])
+            })
+
+        # 5. 점수 기준 내림차순 정렬 (Rank)
+        hospital_rank_data.sort(key=lambda x: x['predicted_recommendation_score'], reverse=True)
+
+        # 6. 최종 결과 반환
+        return {
+            "success": True,
+            "data": hospital_rank_data,
+            "msg": ""
+        }
+
+    except Exception as e:
+        return {
+            "success": False,
+            "data": None,
+            "msg": f"AI Server Error: Prediction Error: {str(e)}"
+        }
