@@ -4,7 +4,7 @@ import json
 from catboost import CatBoostRegressor
 
 # Load the data from the JSON file
-with open('hospital_catboost_traindata.json', 'r', encoding='utf-8') as f:
+with open('hospital_catboost_traindata3.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Convert to pandas DataFrame
