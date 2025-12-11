@@ -1,0 +1,6004 @@
+{
+  "recommendation_data": [
+    {
+      "distance_m": 1455,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.509
+    },
+    {
+      "distance_m": 1608,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5784
+    },
+    {
+      "distance_m": 346,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5308
+    },
+    {
+      "distance_m": 449,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7102
+    },
+    {
+      "distance_m": 1744,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4512
+    },
+    {
+      "distance_m": 1376,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3248
+    },
+    {
+      "distance_m": 960,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.608
+    },
+    {
+      "distance_m": 1204,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5592
+    },
+    {
+      "distance_m": 1116,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3768
+    },
+    {
+      "distance_m": 294,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6412
+    },
+    {
+      "distance_m": 1018,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5964
+    },
+    {
+      "distance_m": 1736,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4528
+    },
+    {
+      "distance_m": 1239,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1522
+    },
+    {
+      "distance_m": 1077,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5846
+    },
+    {
+      "distance_m": 1096,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6808
+    },
+    {
+      "distance_m": 1235,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.553
+    },
+    {
+      "distance_m": 1042,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3916
+    },
+    {
+      "distance_m": 97,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4806
+    },
+    {
+      "distance_m": 294,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4412
+    },
+    {
+      "distance_m": 1073,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4854
+    },
+    {
+      "distance_m": 1242,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6516
+    },
+    {
+      "distance_m": 539,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6922
+    },
+    {
+      "distance_m": 353,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5294
+    },
+    {
+      "distance_m": 26,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5948
+    },
+    {
+      "distance_m": 1607,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2786
+    },
+    {
+      "distance_m": 441,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6118
+    },
+    {
+      "distance_m": 990,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.202
+    },
+    {
+      "distance_m": 1287,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5426
+    },
+    {
+      "distance_m": 1386,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5228
+    },
+    {
+      "distance_m": 1201,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3598
+    },
+    {
+      "distance_m": 1935,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.613
+    },
+    {
+      "distance_m": 1973,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2054
+    },
+    {
+      "distance_m": 1362,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5276
+    },
+    {
+      "distance_m": 144,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6712
+    },
+    {
+      "distance_m": 61,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6878
+    },
+    {
+      "distance_m": 992,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7016
+    },
+    {
+      "distance_m": 462,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8076
+    },
+    {
+      "distance_m": 367,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5266
+    },
+    {
+      "distance_m": 1367,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3266
+    },
+    {
+      "distance_m": 308,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9384
+    },
+    {
+      "distance_m": 207,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6586
+    },
+    {
+      "distance_m": 1376,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5248
+    },
+    {
+      "distance_m": 23,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4954
+    },
+    {
+      "distance_m": 269,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8462
+    },
+    {
+      "distance_m": 203,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6594
+    },
+    {
+      "distance_m": 640,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.472
+    },
+    {
+      "distance_m": 1755,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.549
+    },
+    {
+      "distance_m": 36,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7928
+    },
+    {
+      "distance_m": 1119,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4762
+    },
+    {
+      "distance_m": 1063,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4874
+    },
+    {
+      "distance_m": 917,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7166
+    },
+    {
+      "distance_m": 1389,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5222
+    },
+    {
+      "distance_m": 405,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.719
+    },
+    {
+      "distance_m": 604,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5792
+    },
+    {
+      "distance_m": 1828,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2344
+    },
+    {
+      "distance_m": 234,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6532
+    },
+    {
+      "distance_m": 26,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4948
+    },
+    {
+      "distance_m": 1507,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2986
+    },
+    {
+      "distance_m": 1796,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5408
+    },
+    {
+      "distance_m": 930,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.514
+    },
+    {
+      "distance_m": 1375,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.425
+    },
+    {
+      "distance_m": 389,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7222
+    },
+    {
+      "distance_m": 1151,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4698
+    },
+    {
+      "distance_m": 372,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8256
+    },
+    {
+      "distance_m": 1715,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.557
+    },
+    {
+      "distance_m": 396,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9208
+    },
+    {
+      "distance_m": 901,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4198
+    },
+    {
+      "distance_m": 414,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6172
+    },
+    {
+      "distance_m": 773,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2454
+    },
+    {
+      "distance_m": 1429,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6142
+    },
+    {
+      "distance_m": 1812,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5376
+    },
+    {
+      "distance_m": 1779,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3442
+    },
+    {
+      "distance_m": 994,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5012
+    },
+    {
+      "distance_m": 1603,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6794
+    },
+    {
+      "distance_m": 1527,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2946
+    },
+    {
+      "distance_m": 757,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8486
+    },
+    {
+      "distance_m": 1808,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1384
+    },
+    {
+      "distance_m": 636,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2728
+    },
+    {
+      "distance_m": 1919,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2162
+    },
+    {
+      "distance_m": 285,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.443
+    },
+    {
+      "distance_m": 295,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.441
+    },
+    {
+      "distance_m": 564,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7872
+    },
+    {
+      "distance_m": 1545,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.191
+    },
+    {
+      "distance_m": 1695,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.561
+    },
+    {
+      "distance_m": 558,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6884
+    },
+    {
+      "distance_m": 1064,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3872
+    },
+    {
+      "distance_m": 1651,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1698
+    },
+    {
+      "distance_m": 1209,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5582
+    },
+    {
+      "distance_m": 100,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.68
+    },
+    {
+      "distance_m": 1680,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.264
+    },
+    {
+      "distance_m": 1580,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.684
+    },
+    {
+      "distance_m": 1521,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1958
+    },
+    {
+      "distance_m": 1989,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1022
+    },
+    {
+      "distance_m": 299,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6402
+    },
+    {
+      "distance_m": 159,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8682
+    },
+    {
+      "distance_m": 1988,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0024
+    },
+    {
+      "distance_m": 479,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7042
+    },
+    {
+      "distance_m": 1583,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2834
+    },
+    {
+      "distance_m": 1316,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4368
+    },
+    {
+      "distance_m": 1362,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5276
+    },
+    {
+      "distance_m": 790,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.542
+    },
+    {
+      "distance_m": 1281,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3438
+    },
+    {
+      "distance_m": 987,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2026
+    },
+    {
+      "distance_m": 1033,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5934
+    },
+    {
+      "distance_m": 1880,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.524
+    },
+    {
+      "distance_m": 989,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4022
+    },
+    {
+      "distance_m": 60,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.688
+    },
+    {
+      "distance_m": 1181,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2638
+    },
+    {
+      "distance_m": 365,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.827
+    },
+    {
+      "distance_m": 986,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4028
+    },
+    {
+      "distance_m": 373,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4254
+    },
+    {
+      "distance_m": 871,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3258
+    },
+    {
+      "distance_m": 1396,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7208
+    },
+    {
+      "distance_m": 1165,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.267
+    },
+    {
+      "distance_m": 791,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4418
+    },
+    {
+      "distance_m": 392,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5216
+    },
+    {
+      "distance_m": 403,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7194
+    },
+    {
+      "distance_m": 1866,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2268
+    },
+    {
+      "distance_m": 1432,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5136
+    },
+    {
+      "distance_m": 1682,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0636
+    },
+    {
+      "distance_m": 485,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.603
+    },
+    {
+      "distance_m": 1009,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6982
+    },
+    {
+      "distance_m": 1045,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.591
+    },
+    {
+      "distance_m": 1735,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.553
+    },
+    {
+      "distance_m": 1679,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1642
+    },
+    {
+      "distance_m": 1154,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4692
+    },
+    {
+      "distance_m": 317,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6366
+    },
+    {
+      "distance_m": 1248,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6504
+    },
+    {
+      "distance_m": 1864,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6272
+    },
+    {
+      "distance_m": 199,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6602
+    },
+    {
+      "distance_m": 987,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2026
+    },
+    {
+      "distance_m": 720,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.856
+    },
+    {
+      "distance_m": 574,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4852
+    },
+    {
+      "distance_m": 960,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.508
+    },
+    {
+      "distance_m": 1262,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6476
+    },
+    {
+      "distance_m": 1060,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.488
+    },
+    {
+      "distance_m": 1159,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4682
+    },
+    {
+      "distance_m": 755,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.549
+    },
+    {
+      "distance_m": 1918,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4164
+    },
+    {
+      "distance_m": 1210,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.358
+    },
+    {
+      "distance_m": 1311,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4378
+    },
+    {
+      "distance_m": 1175,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.365
+    },
+    {
+      "distance_m": 634,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2732
+    },
+    {
+      "distance_m": 1986,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2028
+    },
+    {
+      "distance_m": 571,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6858
+    },
+    {
+      "distance_m": 1309,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4382
+    },
+    {
+      "distance_m": 1525,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.395
+    },
+    {
+      "distance_m": 1024,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2952
+    },
+    {
+      "distance_m": 1236,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2528
+    },
+    {
+      "distance_m": 1257,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2486
+    },
+    {
+      "distance_m": 745,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.551
+    },
+    {
+      "distance_m": 49,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4902
+    },
+    {
+      "distance_m": 441,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7118
+    },
+    {
+      "distance_m": 1069,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5862
+    },
+    {
+      "distance_m": 465,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.607
+    },
+    {
+      "distance_m": 1545,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.291
+    },
+    {
+      "distance_m": 1591,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3818
+    },
+    {
+      "distance_m": 1444,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5112
+    },
+    {
+      "distance_m": 1526,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4948
+    },
+    {
+      "distance_m": 157,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5686
+    },
+    {
+      "distance_m": 1399,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3202
+    },
+    {
+      "distance_m": 1319,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2362
+    },
+    {
+      "distance_m": 345,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.731
+    },
+    {
+      "distance_m": 261,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3478
+    },
+    {
+      "distance_m": 166,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8668
+    },
+    {
+      "distance_m": 87,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7826
+    },
+    {
+      "distance_m": 108,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4784
+    },
+    {
+      "distance_m": 1802,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5396
+    },
+    {
+      "distance_m": 969,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4062
+    },
+    {
+      "distance_m": 1591,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5818
+    },
+    {
+      "distance_m": 248,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8504
+    },
+    {
+      "distance_m": 670,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.666
+    },
+    {
+      "distance_m": 683,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7634
+    },
+    {
+      "distance_m": 637,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7726
+    },
+    {
+      "distance_m": 170,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.766
+    },
+    {
+      "distance_m": 572,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3856
+    },
+    {
+      "distance_m": 1433,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5134
+    },
+    {
+      "distance_m": 1002,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6996
+    },
+    {
+      "distance_m": 1103,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3794
+    },
+    {
+      "distance_m": 1080,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.584
+    },
+    {
+      "distance_m": 1260,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.248
+    },
+    {
+      "distance_m": 1613,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2774
+    },
+    {
+      "distance_m": 435,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.713
+    },
+    {
+      "distance_m": 812,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7376
+    },
+    {
+      "distance_m": 1511,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4978
+    },
+    {
+      "distance_m": 1761,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4478
+    },
+    {
+      "distance_m": 1483,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2034
+    },
+    {
+      "distance_m": 1782,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4436
+    },
+    {
+      "distance_m": 1195,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.661
+    },
+    {
+      "distance_m": 1175,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.265
+    },
+    {
+      "distance_m": 1777,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1446
+    },
+    {
+      "distance_m": 1857,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4286
+    },
+    {
+      "distance_m": 1281,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3438
+    },
+    {
+      "distance_m": 1752,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6496
+    },
+    {
+      "distance_m": 308,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6384
+    },
+    {
+      "distance_m": 649,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3702
+    },
+    {
+      "distance_m": 1424,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4152
+    },
+    {
+      "distance_m": 1433,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4134
+    },
+    {
+      "distance_m": 419,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7162
+    },
+    {
+      "distance_m": 1051,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4898
+    },
+    {
+      "distance_m": 794,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5412
+    },
+    {
+      "distance_m": 79,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7842
+    },
+    {
+      "distance_m": 1700,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.16
+    },
+    {
+      "distance_m": 1884,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2232
+    },
+    {
+      "distance_m": 1134,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4732
+    },
+    {
+      "distance_m": 1835,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.233
+    },
+    {
+      "distance_m": 283,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8434
+    },
+    {
+      "distance_m": 19,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4962
+    },
+    {
+      "distance_m": 933,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6134
+    },
+    {
+      "distance_m": 1541,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5918
+    },
+    {
+      "distance_m": 1617,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2766
+    },
+    {
+      "distance_m": 1761,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1478
+    },
+    {
+      "distance_m": 1709,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1582
+    },
+    {
+      "distance_m": 1809,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1382
+    },
+    {
+      "distance_m": 119,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4762
+    },
+    {
+      "distance_m": 907,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5186
+    },
+    {
+      "distance_m": 555,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.689
+    },
+    {
+      "distance_m": 597,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4806
+    },
+    {
+      "distance_m": 689,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6622
+    },
+    {
+      "distance_m": 76,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5848
+    },
+    {
+      "distance_m": 1214,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3572
+    },
+    {
+      "distance_m": 528,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6944
+    },
+    {
+      "distance_m": 83,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7834
+    },
+    {
+      "distance_m": 1319,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4362
+    },
+    {
+      "distance_m": 193,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7614
+    },
+    {
+      "distance_m": 1051,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4898
+    },
+    {
+      "distance_m": 607,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3786
+    },
+    {
+      "distance_m": 1101,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2798
+    },
+    {
+      "distance_m": 918,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5164
+    },
+    {
+      "distance_m": 506,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8988
+    },
+    {
+      "distance_m": 1736,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5528
+    },
+    {
+      "distance_m": 1586,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5828
+    },
+    {
+      "distance_m": 1843,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2314
+    },
+    {
+      "distance_m": 1111,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7778
+    },
+    {
+      "distance_m": 333,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6334
+    },
+    {
+      "distance_m": 882,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6236
+    },
+    {
+      "distance_m": 1295,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.441
+    },
+    {
+      "distance_m": 1916,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6168
+    },
+    {
+      "distance_m": 1526,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3948
+    },
+    {
+      "distance_m": 696,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6608
+    },
+    {
+      "distance_m": 370,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.626
+    },
+    {
+      "distance_m": 1409,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4182
+    },
+    {
+      "distance_m": 574,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8852
+    },
+    {
+      "distance_m": 48,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4904
+    },
+    {
+      "distance_m": 1134,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2732
+    },
+    {
+      "distance_m": 1185,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.463
+    },
+    {
+      "distance_m": 1197,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5606
+    },
+    {
+      "distance_m": 318,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7364
+    },
+    {
+      "distance_m": 791,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4418
+    },
+    {
+      "distance_m": 990,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.402
+    },
+    {
+      "distance_m": 548,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7904
+    },
+    {
+      "distance_m": 1121,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1758
+    },
+    {
+      "distance_m": 1230,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.454
+    },
+    {
+      "distance_m": 1264,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4472
+    },
+    {
+      "distance_m": 541,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2918
+    },
+    {
+      "distance_m": 1418,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6164
+    },
+    {
+      "distance_m": 1930,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.314
+    },
+    {
+      "distance_m": 1594,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2812
+    },
+    {
+      "distance_m": 1023,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6954
+    },
+    {
+      "distance_m": 1316,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3368
+    },
+    {
+      "distance_m": 539,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4922
+    },
+    {
+      "distance_m": 34,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9932
+    },
+    {
+      "distance_m": 439,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4122
+    },
+    {
+      "distance_m": 842,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8316
+    },
+    {
+      "distance_m": 146,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7708
+    },
+    {
+      "distance_m": 1973,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2054
+    },
+    {
+      "distance_m": 509,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3982
+    },
+    {
+      "distance_m": 678,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4644
+    },
+    {
+      "distance_m": 1888,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2224
+    },
+    {
+      "distance_m": 1126,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6748
+    },
+    {
+      "distance_m": 1139,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6722
+    },
+    {
+      "distance_m": 1502,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4996
+    },
+    {
+      "distance_m": 920,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.516
+    },
+    {
+      "distance_m": 102,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4796
+    },
+    {
+      "distance_m": 1369,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4262
+    },
+    {
+      "distance_m": 746,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3508
+    },
+    {
+      "distance_m": 166,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7668
+    },
+    {
+      "distance_m": 925,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.515
+    },
+    {
+      "distance_m": 1167,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7666
+    },
+    {
+      "distance_m": 1127,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6746
+    },
+    {
+      "distance_m": 1885,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.123
+    },
+    {
+      "distance_m": 35,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.693
+    },
+    {
+      "distance_m": 921,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5158
+    },
+    {
+      "distance_m": 1479,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3042
+    },
+    {
+      "distance_m": 1020,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.596
+    },
+    {
+      "distance_m": 164,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8672
+    },
+    {
+      "distance_m": 926,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3148
+    },
+    {
+      "distance_m": 1606,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1788
+    },
+    {
+      "distance_m": 508,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3984
+    },
+    {
+      "distance_m": 1672,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3656
+    },
+    {
+      "distance_m": 821,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8358
+    },
+    {
+      "distance_m": 499,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5002
+    },
+    {
+      "distance_m": 1775,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.345
+    },
+    {
+      "distance_m": 396,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6208
+    },
+    {
+      "distance_m": 685,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.663
+    },
+    {
+      "distance_m": 1680,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.264
+    },
+    {
+      "distance_m": 1034,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5932
+    },
+    {
+      "distance_m": 1827,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6346
+    },
+    {
+      "distance_m": 1644,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3712
+    },
+    {
+      "distance_m": 658,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6684
+    },
+    {
+      "distance_m": 1105,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.779
+    },
+    {
+      "distance_m": 633,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2734
+    },
+    {
+      "distance_m": 595,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.581
+    },
+    {
+      "distance_m": 1470,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.206
+    },
+    {
+      "distance_m": 151,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4698
+    },
+    {
+      "distance_m": 1420,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.316
+    },
+    {
+      "distance_m": 67,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7866
+    },
+    {
+      "distance_m": 1259,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3482
+    },
+    {
+      "distance_m": 277,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4446
+    },
+    {
+      "distance_m": 1382,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7236
+    },
+    {
+      "distance_m": 708,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8584
+    },
+    {
+      "distance_m": 79,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8842
+    },
+    {
+      "distance_m": 290,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.642
+    },
+    {
+      "distance_m": 1397,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6206
+    },
+    {
+      "distance_m": 1291,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2418
+    },
+    {
+      "distance_m": 1761,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4478
+    },
+    {
+      "distance_m": 652,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6696
+    },
+    {
+      "distance_m": 89,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5822
+    },
+    {
+      "distance_m": 1686,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3628
+    },
+    {
+      "distance_m": 318,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3364
+    },
+    {
+      "distance_m": 1816,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3368
+    },
+    {
+      "distance_m": 1417,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3166
+    },
+    {
+      "distance_m": 753,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4494
+    },
+    {
+      "distance_m": 1118,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4764
+    },
+    {
+      "distance_m": 1573,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4854
+    },
+    {
+      "distance_m": 1232,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5536
+    },
+    {
+      "distance_m": 1207,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7586
+    },
+    {
+      "distance_m": 1066,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4868
+    },
+    {
+      "distance_m": 888,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3224
+    },
+    {
+      "distance_m": 1586,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2828
+    },
+    {
+      "distance_m": 1457,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5086
+    },
+    {
+      "distance_m": 100,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.98
+    },
+    {
+      "distance_m": 1917,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1166
+    },
+    {
+      "distance_m": 1041,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3918
+    },
+    {
+      "distance_m": 220,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.956
+    },
+    {
+      "distance_m": 394,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8212
+    },
+    {
+      "distance_m": 875,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.225
+    },
+    {
+      "distance_m": 265,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.847
+    },
+    {
+      "distance_m": 576,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2848
+    },
+    {
+      "distance_m": 1865,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.427
+    },
+    {
+      "distance_m": 754,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4492
+    },
+    {
+      "distance_m": 1168,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6664
+    },
+    {
+      "distance_m": 1127,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4746
+    },
+    {
+      "distance_m": 283,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5434
+    },
+    {
+      "distance_m": 1761,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3478
+    },
+    {
+      "distance_m": 1139,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3722
+    },
+    {
+      "distance_m": 779,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5442
+    },
+    {
+      "distance_m": 104,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4792
+    },
+    {
+      "distance_m": 419,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4162
+    },
+    {
+      "distance_m": 1827,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2346
+    },
+    {
+      "distance_m": 703,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2594
+    },
+    {
+      "distance_m": 1241,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6518
+    },
+    {
+      "distance_m": 1516,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3968
+    },
+    {
+      "distance_m": 1590,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.182
+    },
+    {
+      "distance_m": 1431,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3138
+    },
+    {
+      "distance_m": 1626,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2748
+    },
+    {
+      "distance_m": 1683,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3634
+    },
+    {
+      "distance_m": 77,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4846
+    },
+    {
+      "distance_m": 759,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3482
+    },
+    {
+      "distance_m": 1971,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2058
+    },
+    {
+      "distance_m": 1022,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6956
+    },
+    {
+      "distance_m": 1379,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2242
+    },
+    {
+      "distance_m": 12,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6976
+    },
+    {
+      "distance_m": 1226,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5548
+    },
+    {
+      "distance_m": 202,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4596
+    },
+    {
+      "distance_m": 1921,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2158
+    },
+    {
+      "distance_m": 1062,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2876
+    },
+    {
+      "distance_m": 1654,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3692
+    },
+    {
+      "distance_m": 1204,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1592
+    },
+    {
+      "distance_m": 1254,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3492
+    },
+    {
+      "distance_m": 775,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.445
+    },
+    {
+      "distance_m": 581,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6838
+    },
+    {
+      "distance_m": 148,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5704
+    },
+    {
+      "distance_m": 500,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4
+    },
+    {
+      "distance_m": 590,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.782
+    },
+    {
+      "distance_m": 1225,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.555
+    },
+    {
+      "distance_m": 19,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3962
+    },
+    {
+      "distance_m": 1091,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4818
+    },
+    {
+      "distance_m": 110,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.978
+    },
+    {
+      "distance_m": 1908,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4184
+    },
+    {
+      "distance_m": 1291,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7418
+    },
+    {
+      "distance_m": 25,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.595
+    },
+    {
+      "distance_m": 1659,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3682
+    },
+    {
+      "distance_m": 1454,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5092
+    },
+    {
+      "distance_m": 299,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4402
+    },
+    {
+      "distance_m": 1337,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4326
+    },
+    {
+      "distance_m": 1437,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3126
+    },
+    {
+      "distance_m": 435,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.413
+    },
+    {
+      "distance_m": 1324,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4352
+    },
+    {
+      "distance_m": 963,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4074
+    },
+    {
+      "distance_m": 1383,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5234
+    },
+    {
+      "distance_m": 1183,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2634
+    },
+    {
+      "distance_m": 160,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.668
+    },
+    {
+      "distance_m": 297,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5406
+    },
+    {
+      "distance_m": 131,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5738
+    },
+    {
+      "distance_m": 1763,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2474
+    },
+    {
+      "distance_m": 1054,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5892
+    },
+    {
+      "distance_m": 1744,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2512
+    },
+    {
+      "distance_m": 1441,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3118
+    },
+    {
+      "distance_m": 858,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7284
+    },
+    {
+      "distance_m": 740,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.552
+    },
+    {
+      "distance_m": 537,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4926
+    },
+    {
+      "distance_m": 1827,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3346
+    },
+    {
+      "distance_m": 1886,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2228
+    },
+    {
+      "distance_m": 609,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2782
+    },
+    {
+      "distance_m": 585,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.683
+    },
+    {
+      "distance_m": 966,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5068
+    },
+    {
+      "distance_m": 1020,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.496
+    },
+    {
+      "distance_m": 1932,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3136
+    },
+    {
+      "distance_m": 1807,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3386
+    },
+    {
+      "distance_m": 1615,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.177
+    },
+    {
+      "distance_m": 735,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.453
+    },
+    {
+      "distance_m": 1065,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.487
+    },
+    {
+      "distance_m": 1768,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2464
+    },
+    {
+      "distance_m": 321,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6358
+    },
+    {
+      "distance_m": 335,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.333
+    },
+    {
+      "distance_m": 1228,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2544
+    },
+    {
+      "distance_m": 1504,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2992
+    },
+    {
+      "distance_m": 118,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6764
+    },
+    {
+      "distance_m": 1582,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6836
+    },
+    {
+      "distance_m": 922,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4156
+    },
+    {
+      "distance_m": 313,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6374
+    },
+    {
+      "distance_m": 929,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5142
+    },
+    {
+      "distance_m": 1556,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1888
+    },
+    {
+      "distance_m": 1157,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3686
+    },
+    {
+      "distance_m": 961,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4078
+    },
+    {
+      "distance_m": 1491,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1018
+    },
+    {
+      "distance_m": 382,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9236
+    },
+    {
+      "distance_m": 1549,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5902
+    },
+    {
+      "distance_m": 296,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6408
+    },
+    {
+      "distance_m": 1351,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5298
+    },
+    {
+      "distance_m": 1959,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4082
+    },
+    {
+      "distance_m": 392,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9216
+    },
+    {
+      "distance_m": 1492,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2016
+    },
+    {
+      "distance_m": 492,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5016
+    },
+    {
+      "distance_m": 521,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8958
+    },
+    {
+      "distance_m": 1334,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2332
+    },
+    {
+      "distance_m": 1106,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4788
+    },
+    {
+      "distance_m": 1997,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5006
+    },
+    {
+      "distance_m": 163,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5674
+    },
+    {
+      "distance_m": 429,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7142
+    },
+    {
+      "distance_m": 5,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.799
+    },
+    {
+      "distance_m": 523,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5954
+    },
+    {
+      "distance_m": 1433,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3134
+    },
+    {
+      "distance_m": 1655,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.469
+    },
+    {
+      "distance_m": 1971,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3058
+    },
+    {
+      "distance_m": 176,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7648
+    },
+    {
+      "distance_m": 1575,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.485
+    },
+    {
+      "distance_m": 50,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.49
+    },
+    {
+      "distance_m": 1043,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3914
+    },
+    {
+      "distance_m": 1151,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3698
+    },
+    {
+      "distance_m": 1792,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5416
+    },
+    {
+      "distance_m": 535,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.793
+    },
+    {
+      "distance_m": 1641,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4718
+    },
+    {
+      "distance_m": 401,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6198
+    },
+    {
+      "distance_m": 1473,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6054
+    },
+    {
+      "distance_m": 168,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5664
+    },
+    {
+      "distance_m": 592,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4816
+    },
+    {
+      "distance_m": 1358,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5284
+    },
+    {
+      "distance_m": 1873,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2254
+    },
+    {
+      "distance_m": 183,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5634
+    },
+    {
+      "distance_m": 1185,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.263
+    },
+    {
+      "distance_m": 884,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7232
+    },
+    {
+      "distance_m": 1019,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7962
+    },
+    {
+      "distance_m": 1232,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4536
+    },
+    {
+      "distance_m": 1545,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.291
+    },
+    {
+      "distance_m": 576,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8848
+    },
+    {
+      "distance_m": 1994,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0012
+    },
+    {
+      "distance_m": 272,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8456
+    },
+    {
+      "distance_m": 1586,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5828
+    },
+    {
+      "distance_m": 1418,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2164
+    },
+    {
+      "distance_m": 66,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7868
+    },
+    {
+      "distance_m": 1721,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4558
+    },
+    {
+      "distance_m": 1737,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3526
+    },
+    {
+      "distance_m": 1281,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3438
+    },
+    {
+      "distance_m": 812,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6376
+    },
+    {
+      "distance_m": 12,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6976
+    },
+    {
+      "distance_m": 1294,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4412
+    },
+    {
+      "distance_m": 593,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3814
+    },
+    {
+      "distance_m": 1076,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7848
+    },
+    {
+      "distance_m": 1641,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2718
+    },
+    {
+      "distance_m": 1849,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1302
+    },
+    {
+      "distance_m": 275,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.545
+    },
+    {
+      "distance_m": 1556,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2888
+    },
+    {
+      "distance_m": 1561,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2878
+    },
+    {
+      "distance_m": 49,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7902
+    },
+    {
+      "distance_m": 103,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5794
+    },
+    {
+      "distance_m": 1910,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.118
+    },
+    {
+      "distance_m": 1443,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6114
+    },
+    {
+      "distance_m": 499,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7002
+    },
+    {
+      "distance_m": 569,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7862
+    },
+    {
+      "distance_m": 68,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3864
+    },
+    {
+      "distance_m": 436,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9128
+    },
+    {
+      "distance_m": 1893,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1214
+    },
+    {
+      "distance_m": 534,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6932
+    },
+    {
+      "distance_m": 770,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.846
+    },
+    {
+      "distance_m": 168,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6664
+    },
+    {
+      "distance_m": 555,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.389
+    },
+    {
+      "distance_m": 1589,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0822
+    },
+    {
+      "distance_m": 461,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5078
+    },
+    {
+      "distance_m": 1393,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3214
+    },
+    {
+      "distance_m": 1254,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6492
+    },
+    {
+      "distance_m": 1728,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3544
+    },
+    {
+      "distance_m": 636,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7728
+    },
+    {
+      "distance_m": 1108,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4784
+    },
+    {
+      "distance_m": 1015,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.697
+    },
+    {
+      "distance_m": 203,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7594
+    },
+    {
+      "distance_m": 675,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.865
+    },
+    {
+      "distance_m": 423,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9154
+    },
+    {
+      "distance_m": 1596,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0808
+    },
+    {
+      "distance_m": 1149,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4702
+    },
+    {
+      "distance_m": 404,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8192
+    },
+    {
+      "distance_m": 803,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3394
+    },
+    {
+      "distance_m": 307,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7386
+    },
+    {
+      "distance_m": 1741,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2518
+    },
+    {
+      "distance_m": 662,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4676
+    },
+    {
+      "distance_m": 390,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.622
+    },
+    {
+      "distance_m": 1281,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6438
+    },
+    {
+      "distance_m": 312,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5376
+    },
+    {
+      "distance_m": 1836,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1328
+    },
+    {
+      "distance_m": 1456,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3088
+    },
+    {
+      "distance_m": 494,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7012
+    },
+    {
+      "distance_m": 1144,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1712
+    },
+    {
+      "distance_m": 492,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8016
+    },
+    {
+      "distance_m": 786,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5428
+    },
+    {
+      "distance_m": 433,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8134
+    },
+    {
+      "distance_m": 1593,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4814
+    },
+    {
+      "distance_m": 1071,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6858
+    },
+    {
+      "distance_m": 966,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6068
+    },
+    {
+      "distance_m": 1108,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4784
+    },
+    {
+      "distance_m": 709,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6582
+    },
+    {
+      "distance_m": 1734,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2532
+    },
+    {
+      "distance_m": 62,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6876
+    },
+    {
+      "distance_m": 236,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6528
+    },
+    {
+      "distance_m": 1327,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5346
+    },
+    {
+      "distance_m": 1986,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3028
+    },
+    {
+      "distance_m": 163,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9674
+    },
+    {
+      "distance_m": 1526,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3948
+    },
+    {
+      "distance_m": 1245,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.551
+    },
+    {
+      "distance_m": 1600,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.38
+    },
+    {
+      "distance_m": 1119,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4762
+    },
+    {
+      "distance_m": 203,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6594
+    },
+    {
+      "distance_m": 814,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6372
+    },
+    {
+      "distance_m": 288,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5424
+    },
+    {
+      "distance_m": 1809,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6382
+    },
+    {
+      "distance_m": 867,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2266
+    },
+    {
+      "distance_m": 1596,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3808
+    },
+    {
+      "distance_m": 1651,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3698
+    },
+    {
+      "distance_m": 1253,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4494
+    },
+    {
+      "distance_m": 1270,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.746
+    },
+    {
+      "distance_m": 409,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9182
+    },
+    {
+      "distance_m": 801,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5398
+    },
+    {
+      "distance_m": 286,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8428
+    },
+    {
+      "distance_m": 1379,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6242
+    },
+    {
+      "distance_m": 401,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6198
+    },
+    {
+      "distance_m": 1090,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.482
+    },
+    {
+      "distance_m": 1262,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3476
+    },
+    {
+      "distance_m": 1420,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.316
+    },
+    {
+      "distance_m": 723,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2554
+    },
+    {
+      "distance_m": 471,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7058
+    },
+    {
+      "distance_m": 1295,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.641
+    },
+    {
+      "distance_m": 1754,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6492
+    },
+    {
+      "distance_m": 756,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6488
+    },
+    {
+      "distance_m": 361,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4278
+    },
+    {
+      "distance_m": 1831,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6338
+    },
+    {
+      "distance_m": 181,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6638
+    },
+    {
+      "distance_m": 222,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4556
+    },
+    {
+      "distance_m": 505,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.599
+    },
+    {
+      "distance_m": 1830,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.334
+    },
+    {
+      "distance_m": 435,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.513
+    },
+    {
+      "distance_m": 1852,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3296
+    },
+    {
+      "distance_m": 1705,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.259
+    },
+    {
+      "distance_m": 164,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4672
+    },
+    {
+      "distance_m": 210,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.558
+    },
+    {
+      "distance_m": 483,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4034
+    },
+    {
+      "distance_m": 1130,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.374
+    },
+    {
+      "distance_m": 713,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4574
+    },
+    {
+      "distance_m": 1755,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.549
+    },
+    {
+      "distance_m": 691,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7618
+    },
+    {
+      "distance_m": 892,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6216
+    },
+    {
+      "distance_m": 1141,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7718
+    },
+    {
+      "distance_m": 285,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.943
+    },
+    {
+      "distance_m": 121,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6758
+    },
+    {
+      "distance_m": 636,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6728
+    },
+    {
+      "distance_m": 1110,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.678
+    },
+    {
+      "distance_m": 207,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8586
+    },
+    {
+      "distance_m": 1290,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.142
+    },
+    {
+      "distance_m": 549,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5902
+    },
+    {
+      "distance_m": 1500,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6
+    },
+    {
+      "distance_m": 1339,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4322
+    },
+    {
+      "distance_m": 398,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4204
+    },
+    {
+      "distance_m": 1290,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.342
+    },
+    {
+      "distance_m": 1460,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.508
+    },
+    {
+      "distance_m": 362,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7276
+    },
+    {
+      "distance_m": 1024,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2952
+    },
+    {
+      "distance_m": 1715,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.457
+    },
+    {
+      "distance_m": 784,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7432
+    },
+    {
+      "distance_m": 42,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4916
+    },
+    {
+      "distance_m": 535,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.793
+    },
+    {
+      "distance_m": 401,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4198
+    },
+    {
+      "distance_m": 1500,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7
+    },
+    {
+      "distance_m": 275,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.845
+    },
+    {
+      "distance_m": 1617,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2766
+    },
+    {
+      "distance_m": 1427,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4146
+    },
+    {
+      "distance_m": 45,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.491
+    },
+    {
+      "distance_m": 79,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6842
+    },
+    {
+      "distance_m": 1793,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5414
+    },
+    {
+      "distance_m": 823,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5354
+    },
+    {
+      "distance_m": 1483,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6034
+    },
+    {
+      "distance_m": 1628,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5744
+    },
+    {
+      "distance_m": 1700,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.66
+    },
+    {
+      "distance_m": 805,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.239
+    },
+    {
+      "distance_m": 1691,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5618
+    },
+    {
+      "distance_m": 1909,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3182
+    },
+    {
+      "distance_m": 1274,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5452
+    },
+    {
+      "distance_m": 1376,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2248
+    },
+    {
+      "distance_m": 62,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6876
+    },
+    {
+      "distance_m": 509,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4982
+    },
+    {
+      "distance_m": 701,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4598
+    },
+    {
+      "distance_m": 1320,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.336
+    },
+    {
+      "distance_m": 64,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7872
+    },
+    {
+      "distance_m": 1746,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4508
+    },
+    {
+      "distance_m": 702,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3596
+    },
+    {
+      "distance_m": 1280,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.444
+    },
+    {
+      "distance_m": 631,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8738
+    },
+    {
+      "distance_m": 1554,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1892
+    },
+    {
+      "distance_m": 1034,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2932
+    },
+    {
+      "distance_m": 1496,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2008
+    },
+    {
+      "distance_m": 689,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5622
+    },
+    {
+      "distance_m": 1726,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2548
+    },
+    {
+      "distance_m": 1757,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2486
+    },
+    {
+      "distance_m": 768,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7464
+    },
+    {
+      "distance_m": 1169,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4662
+    },
+    {
+      "distance_m": 1298,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7404
+    },
+    {
+      "distance_m": 331,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7338
+    },
+    {
+      "distance_m": 450,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.51
+    },
+    {
+      "distance_m": 174,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8652
+    },
+    {
+      "distance_m": 1970,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.106
+    },
+    {
+      "distance_m": 1952,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1096
+    },
+    {
+      "distance_m": 288,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3424
+    },
+    {
+      "distance_m": 1569,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3862
+    },
+    {
+      "distance_m": 1814,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2372
+    },
+    {
+      "distance_m": 335,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.833
+    },
+    {
+      "distance_m": 184,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8632
+    },
+    {
+      "distance_m": 442,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7116
+    },
+    {
+      "distance_m": 1770,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.346
+    },
+    {
+      "distance_m": 56,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5888
+    },
+    {
+      "distance_m": 263,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4474
+    },
+    {
+      "distance_m": 617,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4766
+    },
+    {
+      "distance_m": 1846,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1308
+    },
+    {
+      "distance_m": 628,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4744
+    },
+    {
+      "distance_m": 1560,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.588
+    },
+    {
+      "distance_m": 1422,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6156
+    },
+    {
+      "distance_m": 389,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7222
+    },
+    {
+      "distance_m": 764,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7472
+    },
+    {
+      "distance_m": 425,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.815
+    },
+    {
+      "distance_m": 859,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7282
+    },
+    {
+      "distance_m": 1517,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2966
+    },
+    {
+      "distance_m": 1761,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0478
+    },
+    {
+      "distance_m": 623,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4754
+    },
+    {
+      "distance_m": 1313,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2374
+    },
+    {
+      "distance_m": 1130,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.774
+    },
+    {
+      "distance_m": 798,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4404
+    },
+    {
+      "distance_m": 1787,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6426
+    },
+    {
+      "distance_m": 1905,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.219
+    },
+    {
+      "distance_m": 1734,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4532
+    },
+    {
+      "distance_m": 858,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6284
+    },
+    {
+      "distance_m": 137,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7726
+    },
+    {
+      "distance_m": 1350,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.53
+    },
+    {
+      "distance_m": 1092,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4816
+    },
+    {
+      "distance_m": 1167,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5666
+    },
+    {
+      "distance_m": 1371,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5258
+    },
+    {
+      "distance_m": 563,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6874
+    },
+    {
+      "distance_m": 1096,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1808
+    },
+    {
+      "distance_m": 1049,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2902
+    },
+    {
+      "distance_m": 176,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7648
+    },
+    {
+      "distance_m": 542,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4916
+    },
+    {
+      "distance_m": 1907,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3186
+    },
+    {
+      "distance_m": 646,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4708
+    },
+    {
+      "distance_m": 1671,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1658
+    },
+    {
+      "distance_m": 1994,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4012
+    },
+    {
+      "distance_m": 789,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4422
+    },
+    {
+      "distance_m": 640,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.772
+    },
+    {
+      "distance_m": 507,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4986
+    },
+    {
+      "distance_m": 846,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5308
+    },
+    {
+      "distance_m": 992,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3016
+    },
+    {
+      "distance_m": 1616,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4768
+    },
+    {
+      "distance_m": 1544,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1912
+    },
+    {
+      "distance_m": 697,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5606
+    },
+    {
+      "distance_m": 1198,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4604
+    },
+    {
+      "distance_m": 63,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7874
+    },
+    {
+      "distance_m": 768,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4464
+    },
+    {
+      "distance_m": 1637,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4726
+    },
+    {
+      "distance_m": 208,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8584
+    },
+    {
+      "distance_m": 796,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6408
+    },
+    {
+      "distance_m": 1049,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7902
+    },
+    {
+      "distance_m": 543,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7914
+    },
+    {
+      "distance_m": 41,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4918
+    },
+    {
+      "distance_m": 1787,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3426
+    },
+    {
+      "distance_m": 55,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.789
+    },
+    {
+      "distance_m": 875,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.325
+    },
+    {
+      "distance_m": 200,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.66
+    },
+    {
+      "distance_m": 392,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6216
+    },
+    {
+      "distance_m": 1553,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2894
+    },
+    {
+      "distance_m": 333,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7334
+    },
+    {
+      "distance_m": 925,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.715
+    },
+    {
+      "distance_m": 1592,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4816
+    },
+    {
+      "distance_m": 32,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9936
+    },
+    {
+      "distance_m": 990,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.802
+    },
+    {
+      "distance_m": 1112,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6776
+    },
+    {
+      "distance_m": 1105,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.379
+    },
+    {
+      "distance_m": 236,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6528
+    },
+    {
+      "distance_m": 1766,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3468
+    },
+    {
+      "distance_m": 121,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4758
+    },
+    {
+      "distance_m": 1040,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.592
+    },
+    {
+      "distance_m": 1086,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2828
+    },
+    {
+      "distance_m": 488,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6024
+    },
+    {
+      "distance_m": 129,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9742
+    },
+    {
+      "distance_m": 960,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.708
+    },
+    {
+      "distance_m": 1591,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3818
+    },
+    {
+      "distance_m": 875,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.625
+    },
+    {
+      "distance_m": 1459,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3082
+    },
+    {
+      "distance_m": 998,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5004
+    },
+    {
+      "distance_m": 434,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7132
+    },
+    {
+      "distance_m": 8,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7984
+    },
+    {
+      "distance_m": 67,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7866
+    },
+    {
+      "distance_m": 507,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5986
+    },
+    {
+      "distance_m": 351,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3298
+    },
+    {
+      "distance_m": 249,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4502
+    },
+    {
+      "distance_m": 154,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5692
+    },
+    {
+      "distance_m": 302,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5396
+    },
+    {
+      "distance_m": 1641,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4718
+    },
+    {
+      "distance_m": 678,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6644
+    },
+    {
+      "distance_m": 374,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6252
+    },
+    {
+      "distance_m": 1442,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4116
+    },
+    {
+      "distance_m": 677,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5646
+    },
+    {
+      "distance_m": 1000,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4
+    },
+    {
+      "distance_m": 1572,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5856
+    },
+    {
+      "distance_m": 139,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3722
+    },
+    {
+      "distance_m": 830,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.434
+    },
+    {
+      "distance_m": 877,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4246
+    },
+    {
+      "distance_m": 483,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6034
+    },
+    {
+      "distance_m": 392,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9216
+    },
+    {
+      "distance_m": 1618,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2764
+    },
+    {
+      "distance_m": 681,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6638
+    },
+    {
+      "distance_m": 32,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8936
+    },
+    {
+      "distance_m": 1217,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6566
+    },
+    {
+      "distance_m": 175,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.465
+    },
+    {
+      "distance_m": 75,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.685
+    },
+    {
+      "distance_m": 1888,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2224
+    },
+    {
+      "distance_m": 311,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6378
+    },
+    {
+      "distance_m": 719,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5562
+    },
+    {
+      "distance_m": 41,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7918
+    },
+    {
+      "distance_m": 1853,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4294
+    },
+    {
+      "distance_m": 1777,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6446
+    },
+    {
+      "distance_m": 788,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2424
+    },
+    {
+      "distance_m": 646,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7708
+    },
+    {
+      "distance_m": 1426,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6148
+    },
+    {
+      "distance_m": 887,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5226
+    },
+    {
+      "distance_m": 1534,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2932
+    },
+    {
+      "distance_m": 853,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7294
+    },
+    {
+      "distance_m": 804,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6392
+    },
+    {
+      "distance_m": 1737,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4526
+    },
+    {
+      "distance_m": 698,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4604
+    },
+    {
+      "distance_m": 1282,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3436
+    },
+    {
+      "distance_m": 999,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7002
+    },
+    {
+      "distance_m": 1672,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4656
+    },
+    {
+      "distance_m": 1282,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2436
+    },
+    {
+      "distance_m": 333,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8334
+    },
+    {
+      "distance_m": 171,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7658
+    },
+    {
+      "distance_m": 704,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6592
+    },
+    {
+      "distance_m": 417,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7166
+    },
+    {
+      "distance_m": 1282,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6436
+    },
+    {
+      "distance_m": 794,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5412
+    },
+    {
+      "distance_m": 1402,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6196
+    },
+    {
+      "distance_m": 1754,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2492
+    },
+    {
+      "distance_m": 1416,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1168
+    },
+    {
+      "distance_m": 42,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.9916
+    },
+    {
+      "distance_m": 848,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8304
+    },
+    {
+      "distance_m": 1467,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6066
+    },
+    {
+      "distance_m": 489,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7022
+    },
+    {
+      "distance_m": 1427,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6146
+    },
+    {
+      "distance_m": 1203,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3594
+    },
+    {
+      "distance_m": 933,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2134
+    },
+    {
+      "distance_m": 1485,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.103
+    },
+    {
+      "distance_m": 1168,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4664
+    },
+    {
+      "distance_m": 90,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.782
+    },
+    {
+      "distance_m": 855,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.829
+    },
+    {
+      "distance_m": 1006,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3988
+    },
+    {
+      "distance_m": 1468,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2064
+    },
+    {
+      "distance_m": 79,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7842
+    },
+    {
+      "distance_m": 1083,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4834
+    },
+    {
+      "distance_m": 1956,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4088
+    },
+    {
+      "distance_m": 700,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.86
+    },
+    {
+      "distance_m": 13,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7974
+    },
+    {
+      "distance_m": 637,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4726
+    },
+    {
+      "distance_m": 1490,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.102
+    },
+    {
+      "distance_m": 1817,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4366
+    },
+    {
+      "distance_m": 1624,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2752
+    },
+    {
+      "distance_m": 797,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5406
+    },
+    {
+      "distance_m": 996,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7008
+    },
+    {
+      "distance_m": 1566,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3868
+    },
+    {
+      "distance_m": 1544,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1912
+    },
+    {
+      "distance_m": 1528,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3944
+    },
+    {
+      "distance_m": 1584,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5832
+    },
+    {
+      "distance_m": 1775,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.245
+    },
+    {
+      "distance_m": 602,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5796
+    },
+    {
+      "distance_m": 717,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6566
+    },
+    {
+      "distance_m": 58,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7884
+    },
+    {
+      "distance_m": 522,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4956
+    },
+    {
+      "distance_m": 578,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2844
+    },
+    {
+      "distance_m": 1130,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.374
+    },
+    {
+      "distance_m": 395,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.621
+    },
+    {
+      "distance_m": 405,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.319
+    },
+    {
+      "distance_m": 218,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7564
+    },
+    {
+      "distance_m": 817,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5366
+    },
+    {
+      "distance_m": 1175,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.365
+    },
+    {
+      "distance_m": 1927,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3146
+    },
+    {
+      "distance_m": 1420,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.316
+    },
+    {
+      "distance_m": 1510,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.498
+    },
+    {
+      "distance_m": 964,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3072
+    },
+    {
+      "distance_m": 1976,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4048
+    },
+    {
+      "distance_m": 856,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6288
+    },
+    {
+      "distance_m": 226,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6548
+    },
+    {
+      "distance_m": 1869,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3262
+    },
+    {
+      "distance_m": 1027,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1946
+    },
+    {
+      "distance_m": 518,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4964
+    },
+    {
+      "distance_m": 1408,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2184
+    },
+    {
+      "distance_m": 1399,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1202
+    },
+    {
+      "distance_m": 795,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.741
+    },
+    {
+      "distance_m": 529,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4942
+    },
+    {
+      "distance_m": 863,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5274
+    },
+    {
+      "distance_m": 1064,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6872
+    },
+    {
+      "distance_m": 1392,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5216
+    },
+    {
+      "distance_m": 533,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6934
+    },
+    {
+      "distance_m": 1744,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6512
+    },
+    {
+      "distance_m": 2,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7996
+    },
+    {
+      "distance_m": 90,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.682
+    },
+    {
+      "distance_m": 923,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4154
+    },
+    {
+      "distance_m": 635,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.573
+    },
+    {
+      "distance_m": 32,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6936
+    },
+    {
+      "distance_m": 383,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4234
+    },
+    {
+      "distance_m": 170,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.766
+    },
+    {
+      "distance_m": 512,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4976
+    },
+    {
+      "distance_m": 1567,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1866
+    },
+    {
+      "distance_m": 1047,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2906
+    },
+    {
+      "distance_m": 1376,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3248
+    },
+    {
+      "distance_m": 1812,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4376
+    },
+    {
+      "distance_m": 652,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5696
+    },
+    {
+      "distance_m": 1150,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.47
+    },
+    {
+      "distance_m": 414,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6172
+    },
+    {
+      "distance_m": 1790,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.442
+    },
+    {
+      "distance_m": 1350,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.53
+    },
+    {
+      "distance_m": 1718,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3564
+    },
+    {
+      "distance_m": 641,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4718
+    },
+    {
+      "distance_m": 83,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7834
+    },
+    {
+      "distance_m": 428,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5144
+    },
+    {
+      "distance_m": 933,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4134
+    },
+    {
+      "distance_m": 880,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.324
+    },
+    {
+      "distance_m": 1912,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1176
+    },
+    {
+      "distance_m": 1556,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4888
+    },
+    {
+      "distance_m": 1052,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5896
+    },
+    {
+      "distance_m": 312,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6376
+    },
+    {
+      "distance_m": 165,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.767
+    },
+    {
+      "distance_m": 980,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.304
+    },
+    {
+      "distance_m": 1230,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.554
+    },
+    {
+      "distance_m": 856,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6288
+    },
+    {
+      "distance_m": 1899,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1202
+    },
+    {
+      "distance_m": 174,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8652
+    },
+    {
+      "distance_m": 322,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5356
+    },
+    {
+      "distance_m": 300,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.84
+    },
+    {
+      "distance_m": 1683,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3634
+    },
+    {
+      "distance_m": 810,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.538
+    },
+    {
+      "distance_m": 900,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.62
+    },
+    {
+      "distance_m": 1534,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1932
+    },
+    {
+      "distance_m": 1137,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3726
+    },
+    {
+      "distance_m": 1244,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3512
+    },
+    {
+      "distance_m": 1555,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.389
+    },
+    {
+      "distance_m": 1855,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.029
+    },
+    {
+      "distance_m": 722,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5556
+    },
+    {
+      "distance_m": 135,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.473
+    },
+    {
+      "distance_m": 572,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6856
+    },
+    {
+      "distance_m": 1638,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4724
+    },
+    {
+      "distance_m": 45,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.591
+    },
+    {
+      "distance_m": 902,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2196
+    },
+    {
+      "distance_m": 427,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4146
+    },
+    {
+      "distance_m": 629,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6742
+    },
+    {
+      "distance_m": 1840,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.532
+    },
+    {
+      "distance_m": 792,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.6416
+    },
+    {
+      "distance_m": 423,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3154
+    },
+    {
+      "distance_m": 141,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4718
+    },
+    {
+      "distance_m": 1551,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4898
+    },
+    {
+      "distance_m": 1960,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.408
+    },
+    {
+      "distance_m": 865,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.527
+    },
+    {
+      "distance_m": 513,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3974
+    },
+    {
+      "distance_m": 811,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5378
+    },
+    {
+      "distance_m": 1177,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6646
+    },
+    {
+      "distance_m": 103,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7794
+    },
+    {
+      "distance_m": 1054,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3892
+    },
+    {
+      "distance_m": 869,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4262
+    },
+    {
+      "distance_m": 1653,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3694
+    },
+    {
+      "distance_m": 1446,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7108
+    },
+    {
+      "distance_m": 1009,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4982
+    },
+    {
+      "distance_m": 502,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4996
+    },
+    {
+      "distance_m": 890,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.822
+    },
+    {
+      "distance_m": 1378,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6244
+    },
+    {
+      "distance_m": 787,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.8426
+    },
+    {
+      "distance_m": 1957,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4086
+    },
+    {
+      "distance_m": 1634,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4732
+    },
+    {
+      "distance_m": 810,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.438
+    },
+    {
+      "distance_m": 1321,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.1358
+    },
+    {
+      "distance_m": 1538,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4924
+    },
+    {
+      "distance_m": 1143,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2714
+    },
+    {
+      "distance_m": 1834,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2332
+    },
+    {
+      "distance_m": 1698,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0604
+    },
+    {
+      "distance_m": 1625,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.575
+    },
+    {
+      "distance_m": 10,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.898
+    },
+    {
+      "distance_m": 857,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6286
+    },
+    {
+      "distance_m": 420,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.616
+    },
+    {
+      "distance_m": 777,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6446
+    },
+    {
+      "distance_m": 608,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6784
+    },
+    {
+      "distance_m": 107,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.8786
+    },
+    {
+      "distance_m": 1141,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4718
+    },
+    {
+      "distance_m": 1216,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5568
+    },
+    {
+      "distance_m": 160,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.868
+    },
+    {
+      "distance_m": 1654,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.0692
+    },
+    {
+      "distance_m": 1346,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4308
+    },
+    {
+      "distance_m": 365,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.827
+    },
+    {
+      "distance_m": 1367,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2266
+    },
+    {
+      "distance_m": 1612,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.1776
+    },
+    {
+      "distance_m": 344,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5312
+    },
+    {
+      "distance_m": 83,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.7834
+    },
+    {
+      "distance_m": 1418,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3164
+    },
+    {
+      "distance_m": 869,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6262
+    },
+    {
+      "distance_m": 415,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.617
+    },
+    {
+      "distance_m": 345,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.631
+    },
+    {
+      "distance_m": 234,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5532
+    },
+    {
+      "distance_m": 360,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.328
+    },
+    {
+      "distance_m": 1552,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3896
+    },
+    {
+      "distance_m": 58,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5884
+    },
+    {
+      "distance_m": 606,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4788
+    },
+    {
+      "distance_m": 1240,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.552
+    },
+    {
+      "distance_m": 656,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5688
+    },
+    {
+      "distance_m": 1151,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6698
+    },
+    {
+      "distance_m": 631,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4738
+    },
+    {
+      "distance_m": 991,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5018
+    },
+    {
+      "distance_m": 1403,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3194
+    },
+    {
+      "distance_m": 1498,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6004
+    },
+    {
+      "distance_m": 579,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6842
+    },
+    {
+      "distance_m": 1795,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.541
+    },
+    {
+      "distance_m": 354,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5292
+    },
+    {
+      "distance_m": 1,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4998
+    },
+    {
+      "distance_m": 1939,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4122
+    },
+    {
+      "distance_m": 566,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7868
+    },
+    {
+      "distance_m": 1681,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3638
+    },
+    {
+      "distance_m": 1139,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6722
+    },
+    {
+      "distance_m": 906,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4188
+    },
+    {
+      "distance_m": 597,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2806
+    },
+    {
+      "distance_m": 1383,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6234
+    },
+    {
+      "distance_m": 314,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.5372
+    },
+    {
+      "distance_m": 1430,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.414
+    },
+    {
+      "distance_m": 756,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4488
+    },
+    {
+      "distance_m": 728,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.4544
+    },
+    {
+      "distance_m": 1857,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2286
+    },
+    {
+      "distance_m": 1109,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.2782
+    },
+    {
+      "distance_m": 818,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5364
+    },
+    {
+      "distance_m": 379,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4242
+    },
+    {
+      "distance_m": 302,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4396
+    },
+    {
+      "distance_m": 1139,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6722
+    },
+    {
+      "distance_m": 767,
+      "rating": 1.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3466
+    },
+    {
+      "distance_m": 1681,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3638
+    },
+    {
+      "distance_m": 1336,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3328
+    },
+    {
+      "distance_m": 1746,
+      "rating": 3.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.2508
+    },
+    {
+      "distance_m": 1612,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5776
+    },
+    {
+      "distance_m": 1914,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.3172
+    },
+    {
+      "distance_m": 1543,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3914
+    },
+    {
+      "distance_m": 1049,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7902
+    },
+    {
+      "distance_m": 1258,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.3484
+    },
+    {
+      "distance_m": 1950,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.61
+    },
+    {
+      "distance_m": 695,
+      "rating": 2.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.361
+    },
+    {
+      "distance_m": 1847,
+      "rating": 1.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.2306
+    },
+    {
+      "distance_m": 373,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.7254
+    },
+    {
+      "distance_m": 341,
+      "rating": 3.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.7318
+    },
+    {
+      "distance_m": 630,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.574
+    },
+    {
+      "distance_m": 1600,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.48
+    },
+    {
+      "distance_m": 1598,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4804
+    },
+    {
+      "distance_m": 135,
+      "rating": 4.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.773
+    },
+    {
+      "distance_m": 988,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.5024
+    },
+    {
+      "distance_m": 1837,
+      "rating": 5.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.4326
+    },
+    {
+      "distance_m": 1640,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.372
+    },
+    {
+      "distance_m": 398,
+      "rating": 2.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.6204
+    },
+    {
+      "distance_m": 935,
+      "rating": 5.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.813
+    },
+    {
+      "distance_m": 1775,
+      "rating": 4.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.345
+    },
+    {
+      "distance_m": 199,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.5602
+    },
+    {
+      "distance_m": 445,
+      "rating": 4.0,
+      "congestion_level": 1,
+      "recommendation_score": 0.811
+    },
+    {
+      "distance_m": 1044,
+      "rating": 5.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.6912
+    },
+    {
+      "distance_m": 1036,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4928
+    },
+    {
+      "distance_m": 210,
+      "rating": 1.0,
+      "congestion_level": 3,
+      "recommendation_score": 0.358
+    },
+    {
+      "distance_m": 1128,
+      "rating": 2.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.3744
+    },
+    {
+      "distance_m": 1374,
+      "rating": 3.0,
+      "congestion_level": 2,
+      "recommendation_score": 0.4252
+    }
+  ]
+}
